@@ -10,7 +10,7 @@
 body {
   background-image: url("../imgs/banner.png");
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   height: 100vh;
   background-color: burlywood;
 }
