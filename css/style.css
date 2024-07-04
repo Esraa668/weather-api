@@ -1,0 +1,23 @@
+.bg-sec-col{
+    background-color: #323544;
+
+}.bg{
+    background-color: #2D303D;
+}
+.text-blue{
+    color: rgb(29, 188, 199);
+}
+body{
+    background-image: url('../imgs/banner.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+}
+.fs{
+    font-size:48px !important;
+}
+.bg-sec
+{background-color: #262936;
+    
+}
