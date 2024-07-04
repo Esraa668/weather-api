@@ -21,6 +21,7 @@ let info = new Date();
 
 async function getData(city = "cairo") {
   const key = "4e8e536e0de444d896b195248241901";
+  // 
   let response = await fetch(
     `http://api.weatherapi.com/v1/forecast.json?key=${key}&q=${city}&days=3`
   );
